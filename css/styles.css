@@ -348,6 +348,7 @@
 /*Portafolio imagnes sombra*/
 .main-images1 img:hover {
   box-shadow: 2px 2px 10px 3px #959499b4;
+  cursor: pointer;
 }
 /*Footer*/
 .contact2 {
